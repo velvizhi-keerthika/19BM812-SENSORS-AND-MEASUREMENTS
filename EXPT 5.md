@@ -35,10 +35,13 @@ force applied.
 
 
 # TABLE
-<img width="978" height="408" alt="image" src="https://github.com/user-attachments/assets/217a997b-b246-4af2-8d4c-47650c2eb564" />
+<img width="1151" height="1600" alt="WhatsApp Image 2026-05-28 at 7 09 59 PM" src="https://github.com/user-attachments/assets/4e673065-c8fc-4928-9ad6-bb355f59a069" />
+
 
 # GRAPH:
+<img width="1216" height="1600" alt="WhatsApp Image 2026-05-28 at 7 09 59 PM (1)" src="https://github.com/user-attachments/assets/c34a15c7-3508-49b8-a945-50c0b5e606ed" />
 
+<img width="1224" height="1600" alt="WhatsApp Image 2026-05-28 at 7 13 41 PM" src="https://github.com/user-attachments/assets/600cdc3b-9768-47d8-b2b2-db1a7c1f9088" />
 
 # RESULT
 Thus, the characteristics of piezoelectric transducer was studied and verified successfully.
